@@ -46,10 +46,16 @@ Data Columns
 18. Driver_Ratings
 19. Customer_Rating
 
-- Dashboard Interaction  <a herf ="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">view Dashboard</a>
+- Dashboard Interaction  <a herf="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">view Dashboard</a>
 
-Process :
-# made sure data is consistent and clean with respect to data type , data formate and value used 
-# create interactive dashboard using bar chart , pie chart and slicers etc 
-# verify data for ant missing value 
+## Process :
+ made sure data is consistent and clean with respect to data type , data formate and value used 
+ create interactive dashboard using bar chart , pie chart and slicers etc 
+ verify data for ant missing value 
+
+ ## Dashboard "
+
+ <img width="1316" height="729" alt="Screenshot 2026-02-19 112911" src="https://github.com/user-attachments/assets/5e3d849e-e283-490e-96c7-d8e7101dce1d" />
+
+ 
   
