@@ -3,7 +3,7 @@ OLA Data Analysis Project (  Interactive Dashboard using powerBI )
 
 - <a href="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Bookings.csv"> Dataset</a>
 
-SQL Questions:
+## SQL Questions:
 1. Retrieve all successful bookings:
 2. Find the average ride distance for each vehicle type:
 3. Get the total number of cancelled rides by customers:
@@ -14,7 +14,7 @@ SQL Questions:
 8. Find the average customer rating per vehicle type:
 9. Calculate the total booking value of rides completed successfully:
 10. List all incomplete rides along with the reason:
-Power BI Questions:
+## Power BI Questions:
 1. Ride Volume Over Time
 2. Booking Status Breakdown
 3. Top 5 Vehicle Types by Ride Distance
@@ -25,7 +25,7 @@ Power BI Questions:
 8. Ride Distance Distribution Per Day
 9. Driver Ratings Distribution
 10. Customer vs. Driver Ratings
-Data Columns
+## Data Columns
 1. Date
 2. Time
 3. Booking_ID
@@ -46,7 +46,7 @@ Data Columns
 18. Driver_Ratings
 19. Customer_Rating
 
-- Dashboard Interaction  <a herf="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">view Dashboard</a>
+- Dashboard Interaction - <a herf="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">  view Dashboard</a>
 
 ## Process :
  made sure data is consistent and clean with respect to data type , data formate and value used 
