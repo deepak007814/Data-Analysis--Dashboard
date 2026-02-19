@@ -46,7 +46,7 @@ OLA Data Analysis Project (  Interactive Dashboard using powerBI )
 18. Driver_Ratings
 19. Customer_Rating
 
-- Dashboard Interaction - <a herf="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">  view Dashboard</a>
+- Dashboard Interaction - <a href ="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">  View Dashboard</a>
 
 ## Process :
  made sure data is consistent and clean with respect to data type , data formate and value used 
