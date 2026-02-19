@@ -49,9 +49,9 @@ OLA Data Analysis Project (  Interactive Dashboard using powerBI )
 - Dashboard Interaction - <a href ="https://github.com/deepak007814/Data-Analysis--Dashboard/blob/main/Screenshot%202026-02-19%20112911.png">  View Dashboard</a>
 
 ## Process :
- made sure data is consistent and clean with respect to data type , data formate and value used 
- create interactive dashboard using bar chart , pie chart and slicers etc 
- verify data for ant missing value 
+1. made sure data is consistent and clean with respect to data type , data formate and value used ,
+2. create interactive dashboard using bar chart , pie chart and slicers etc 
+3. verify data for ant missing value 
 
  ## Dashboard "
 
