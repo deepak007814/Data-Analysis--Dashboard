@@ -51,7 +51,7 @@
 ## Process :
 1. made sure data is consistent and clean with respect to data type , data formate and value used ,
 2. create interactive dashboard using bar chart , pie chart and slicers etc 
-3. verify data for ant missing value 
+3. verify data for any  missing value 
 
  ## Dashboard "
 
